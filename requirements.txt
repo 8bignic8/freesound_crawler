@@ -1,0 +1,6 @@
+BeautifulSoup
+requests
+csv
+pandas
+os
+urllib
